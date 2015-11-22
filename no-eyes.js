@@ -99,7 +99,7 @@ var paras = [
    "complex","appeared","on","the","walls.","Words","formed","without","form:",
    "“crashing","am","worry","depends","on","the","continuing","earth",
    "exists","can","Zamilon.”","Each","letter","became","an","act","of",
-   "will--a","playing","out","in","his","mind","of","what","it","should","look",
+   "will--","a","playing","out","in","his","mind","of","what","it","should","look",
    "like","and","then","making","his","toes,","his","foot,","his","leg,",
    "apply","the","correct","pressure","to","the","wall","so","that","the","pen",
    "did","not","break","and","the","shape","took","form","correctly."],
@@ -115,7 +115,7 @@ var paras = [
    "the","gray","caps."],
 
   ["I","saw","one","of","the","stories","the","writer","wrote","on","the",
-   "wall--in","red","ink,","surrounded","by","thousands","of","other,",
+   "wall--","in","red","ink,","surrounded","by","thousands","of","other,",
    "disconnected","words.","It","read:"],
 
   ["There","once","was","a","cage","in","an","empty","room.","A","soft,","soft",
@@ -153,8 +153,8 @@ var paras = [
    "eyes.","He","just","had","no","hands.","Was","that","really","so","bad?"],
 
   ["At","least,","this","is","the","story","the","man","wrote","for","me",
-   "when,","as","a","traveler","to","Ambergris--fresh","from","an","encounter",
-   "with","the","giant","squid","that","had","scuttled","my","boat--I",
+   "when,","as","a","traveler","to","Ambergris--","fresh","from","an","encounter",
+   "with","the","giant","squid","that","had","scuttled","my","boat--","I",
    "visited","him","in","his","room.","Later,","others","told","me","that","he",
    "had","been","born","in","his","current","state","and","that","all","of",
    "his","ideas","came","from","old","books","by","obscure","authors,","read",
