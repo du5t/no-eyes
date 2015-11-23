@@ -16,6 +16,29 @@ var code = [[1,1],[15,4],[1,3],[15,8],[2,56],[5,35],[4,66],[14,34],[4,33],
             [2,90],[12,1],[3,10],[2,4],[10,50],[9,24],[13,22],[10,5],
             [13,156],[15,4],[4,5],[14,43]]
 
+
+// I originally thought that the code consisted only of references to the same
+// story words, so I deserialized the story body from an EPUB. This turns out
+// not to be the case, though, says the author:
+
+/*
+
+Finally, when I needed an encrypted story, it fit perfectly. Well, not
+perfectly, but it fit. The problem was, I had to do the encryption after the
+first four novellas had been completely copy-edited and proofread, so that the
+position of the words would not change. But this also meant that if words in
+"The Man Who Had No Eyes" did not appear in the first four novellas in City of
+Saints, I would have to substitute words to replace them.
+
+This process took awhile, but not as long as it could have, because I was
+working from a PDF file of the first four novellas and thus could perform a
+Search for each word. Still, it took an irritating amount of time, especially
+because I was determined (obsession coiled within obsession) to get the right
+emotional context for the word transfer. Thus, I would consider seven or eight
+positions of the word "the" within the main text before deciding which one would
+be airlifted into the encrypted story.
+
+*/
 var paras = [
   ["There","came","a","day","when","the","gray","caps","changed","the","course",
    "of","the","River","Moth","and","flooded","the","city","of","Ambergris.",
